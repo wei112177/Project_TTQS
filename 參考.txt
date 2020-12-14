@@ -1,0 +1,12 @@
+動態下拉選單：
+
+1.https://ithelp.ithome.com.tw/articles/10193551
+2.http://1-floor.blogspot.com/2016/09/javascript.html
+
+HTML下拉選單關鍵字
+
+https://andy6804tw.github.io/2019/09/29/html-datalist/
+
+
+
+https://developers.google.com/maps/documentation/javascript/examples/places-autocomplete-directions
